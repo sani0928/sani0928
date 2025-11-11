@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 웹돌이 (Webdori) [확장 프로그램 링크](https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn?utm_source=item-share-cb)
+# 웹돌이 (Webdori) <small>[확장 프로그램 링크](https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn?utm_source=item-share-cb)</small>
 
 웹페이지 내용을 기반으로 AI가 질문에 답변해주는 스마트 웹 어시스턴트입니다. Chrome 확장 프로그램과 웹 애플리케이션 두 가지 형태로 제공됩니다.
 
