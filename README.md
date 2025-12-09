@@ -69,7 +69,7 @@ My Projects
 
 ## [웹돌이 (Webdori)](https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn?utm_source=item-share-cb)
 
-![웹돌이 메인페이지](./image/webdori/home.png.png)
+![웹돌이 메인페이지](./image/webdori/home.png)
 
 ## [KS Code Editor](https://ks-code-editor.com)
 
