@@ -1,6 +1,6 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
-
+  <br>
   <!-- Backend -->
   <h3 style="color:#282d33;">Backend</h3>
   <div align="left">
@@ -61,18 +61,22 @@
   </div>
   <br>
 </div>
+<br>
 
-<div align="center">
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2> <br> 
+<div>
+
+<div align="left">
   <p>
-    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/43ff6231b6dfbd7636dada532277c2ecb4ac5bf9/generated/languages.svg" alt="languages_svg" style="max-width:100%;height:auto;" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="overview_svg" style="max-width:100%;height:auto;" />
+    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/43ff6231b6dfbd7636dada532277c2ecb4ac5bf9/generated/languages.svg" alt="languages_svg" />
+    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="overview_svg" />
   </p>
   <p>
     <a href="https://solved.ac/kksan12"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kksan12" alt="Solved.ac Profile" /></a>
   </p>
 </div>
+<br>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 My Projects </h2> <br> 
@@ -105,4 +109,3 @@
     </td>
   </tr>
 </table>
-
