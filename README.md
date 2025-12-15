@@ -1,3 +1,53 @@
+<!-- Stats -->
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2> <br> 
+<div>
+
+<div align="left">
+  <p>
+    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/43ff6231b6dfbd7636dada532277c2ecb4ac5bf9/generated/languages.svg" alt="languages_svg" />
+    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="overview_svg" />
+  </p>
+  <p>
+    <a href="https://solved.ac/kksan12"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kksan12" alt="Solved.ac Profile" /></a>
+  </p>
+</div>
+<br>
+
+<!-- Projects -->
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 My Projects </h2> <br> 
+<div>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn?utm_source=item-share-cb" target="_blank">
+        <img src="./image/webdori/home.png" alt="Webdori main" width="420"/>
+      </a>
+      <h3><a href="https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn?utm_source=item-share-cb">웹돌이 (Webdori)</a></h3>
+      <p>Chrome extension that enhances browsing productivity with useful UI and quick tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://ks-code-editor.com" target="_blank">
+        <img src="./image/ks-code-editor/main.png" alt="KS Code Editor" width="420"/>
+      </a>
+      <h3><a href="https://ks-code-editor.com">KS Code Editor</a></h3>
+      <p>It's a lightweight online code editor that focuses on studying algorithms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
+
+<!-- Tech Stacks -->
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
   <br>
@@ -61,51 +111,3 @@
   </div>
   <br>
 </div>
-<br>
-
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats </h2> <br> 
-<div>
-
-<div align="left">
-  <p>
-    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/43ff6231b6dfbd7636dada532277c2ecb4ac5bf9/generated/languages.svg" alt="languages_svg" />
-    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="overview_svg" />
-  </p>
-  <p>
-    <a href="https://solved.ac/kksan12"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kksan12" alt="Solved.ac Profile" /></a>
-  </p>
-</div>
-<br>
-
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 My Projects </h2> <br> 
-<div>
-
-<!-- Projects -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn?utm_source=item-share-cb" target="_blank">
-        <img src="./image/webdori/home.png" alt="Webdori main" width="420"/>
-      </a>
-      <h3><a href="https://chromewebstore.google.com/detail/dkkelmoggdihadhbpaalbokbgngkhfkn?utm_source=item-share-cb">웹돌이 (Webdori)</a></h3>
-      <p>Chrome extension that enhances browsing productivity with useful UI and quick tools.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
-      </p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://ks-code-editor.com" target="_blank">
-        <img src="./image/ks-code-editor/main.png" alt="KS Code Editor" width="420"/>
-      </a>
-      <h3><a href="https://ks-code-editor.com">KS Code Editor</a></h3>
-      <p>It's a lightweight online code editor that focuses on studying algorithms.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-      </p>
-    </td>
-  </tr>
-</table>
