@@ -1,6 +1,5 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
-  <br>
 
   <!-- Backend -->
   <h3 style="color:#282d33;">Backend</h3>
@@ -61,23 +60,19 @@
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   </div>
   <br>
-
 </div>
 
-<!--
-**sani0928/sani0928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>
+    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/43ff6231b6dfbd7636dada532277c2ecb4ac5bf9/generated/languages.svg" alt="languages_svg" style="max-width:100%;height:auto;" />
+  </p>
+  <p>
+    <img src="https://raw.githubusercontent.com/sani0928/github-stats-transparent/refs/heads/output/generated/overview.svg" alt="overview_svg" style="max-width:100%;height:auto;" />
+  </p>
+  <p>
+    <a href="https://solved.ac/kksan12"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kksan12" alt="Solved.ac Profile" /></a>
+  </p>
+</div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📂 My Projects </h2> <br> 
@@ -110,3 +105,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
